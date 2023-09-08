@@ -1,4 +1,4 @@
-- Acauã Tunari (Tounaïyalē Waka'wã) - Índigena Kali'na, 🅷🅰🅲🅺🅴🆁 e pesquisador de iniciação científica. 
+- Acauã Tunari (Tounaïyalē Waka'wã) - Índigena Kali'na, h4ck3r e pesquisador de iniciação científica. 
 - Estou interessado em ... Defesa cibernética, OSINT, SCADA etc...
 - Atualmente estou estudando ... Pentest mobile 
 - I’m looking to collaborate on ... < n/a >
